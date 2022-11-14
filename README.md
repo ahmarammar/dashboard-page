@@ -1,2 +1,2 @@
-# top-dashboard-project
-Dashboard Interface using CSS Grid System.
+# dashboard-page
+Dashboard Interface webpage using CSS Grid System.
